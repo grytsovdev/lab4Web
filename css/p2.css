@@ -1,0 +1,29 @@
+body {
+  background-color: darkgreen;
+  color: yellow;
+}
+
+a {
+  color: yellow;
+}
+
+.p_bold {
+  font-weight: bold;
+}
+
+.img_right {
+  float: right;
+}
+
+.p_underline {
+  text-decoration: underline;
+}
+
+.img_left {
+  float: left;
+}
+
+span {
+  color: red;
+  font-style: italic;
+}
